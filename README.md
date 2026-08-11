@@ -7,15 +7,9 @@
 
 <div align="center">
 
-```text
- _    _  _____  _   _  ___  _   _  _____
-| |  | || ____|| | | ||_ _|| \ | ||  ___|
-| |  | ||  _|  | |_| | | | |  \| || |_
-| |__| || |___ |  _  | | | | |\  ||  _|
-|_____||_____||_| |_||___||_| \_||_|
-```
+# Abdullah Al-Ajrad
 
-**ABDULLAH AL-AJRAD** — *Full-Stack Developer*
+**Full-Stack Developer**
 
 <span style="color:#8a8a9a">clean code</span> · <span style="color:#8a8a9a">sharp interaction</span> · <span style="color:#8a8a9a">real impact</span>
 
@@ -44,25 +38,6 @@ SignalR          .........  Real-time chat & notifications
 Go               .........  Tooling & the missing fifth star
 HTML / CSS       .........  Responsive, animated web experiences
 ```
-
-## `$ projects`
-
-### QuickStack – CLI Scaffolding Tool
-Open-source CLI built in C# that automates backend project scaffolding and directory architecture — instantly launch pre-configured .NET solutions with zero manual setup.
-
-**Stack:** C# · .NET · NuGet · CLI  
-**Repo:** [github.com/aboodalajrad8/QuickStack](https://github.com/aboodalajrad8/QuickStack)
-
-### Etqan – Online Course Booking Platform
-Full-stack commercial course booking platform with Clean Architecture, JWT-secured REST APIs, and real-time course chat via SignalR.
-
-**Stack:** C# · .NET Core · Clean Architecture · React.js · SQL Server · SignalR  
-**Live demo:** [magical-mermaid-992dc7.netlify.app](https://magical-mermaid-992dc7.netlify.app/)
-
-### HallConnect – Automated Venue Management & Ticketing System
-University graduation project: automated venue reservation and secure ticketing with role-based access control and credential handling.
-
-**Stack:** C# · .NET Core · Clean Architecture · React.js · PostgreSQL
 
 ---
 
