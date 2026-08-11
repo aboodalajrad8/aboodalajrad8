@@ -7,11 +7,11 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00FFD1&center=true&vCenter=true&random=false&width=600&height=70&lines=ABDULLAH+AL-AJRAD;FULL-STACK+DEVELOPER;SYSTEM+ARCHITECT" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/aboodalajrad8/aboodalajrad8/main/typing-header.svg" alt="Typing header" />
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=800&color=8A8A9A&center=true&vCenter=true&random=false&width=500&height=30&lines=%E2%9C%A6+clean+code+%E2%9C%A6+sharp+interaction+%E2%9C%A6+real+impact+%E2%9C%A6" alt="Typing subtitle" />
+  <img src="https://raw.githubusercontent.com/aboodalajrad8/aboodalajrad8/main/typing-subtitle.svg" alt="Typing subtitle" />
 
   <br><br>
 
@@ -117,11 +117,6 @@
   <a href="https://aboodalajrad8.github.io">
     <img src="https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" />
   </a>
-
-  <br><br>
-
-  <!-- Visitor Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=aboodalajrad8&label=PROFILE%20VIEWS&color=0&icon=5&pretty=true" />
 
   <br><br>
 
