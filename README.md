@@ -16,8 +16,8 @@
   <br><br>
 
   <!-- GitHub Stats with Neon Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aboodalajrad8&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=FF6B6B&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboodalajrad8&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&langs_count=8" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aboodalajrad8&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aboodalajrad8&theme=github_dark" width="49%" />
 
   <br><br>
 
