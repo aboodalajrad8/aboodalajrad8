@@ -27,7 +27,7 @@
   <br><br>
 
   <!-- Contribution Snake Game -->
-  <img src="https://raw.githubusercontent.com/aboodalajrad8/aboodalajrad8/output/snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/aboodalajrad8/aboodalajrad8/output/dist/snake.svg" alt="Contribution snake animation" />
 
 </div>
 
