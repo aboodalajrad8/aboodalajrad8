@@ -94,8 +94,8 @@
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aboodalajrad8&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" />
+  <!-- Contribution Chart -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aboodalajrad8&theme=github_dark" alt="Contribution chart" width="100%" />
 
 </div>
 
